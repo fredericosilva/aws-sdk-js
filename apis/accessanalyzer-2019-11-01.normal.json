@@ -1240,7 +1240,7 @@
       "members": {
         "resource": {
           "shape": "AnalyzedResource",
-          "documentation": "<p>An <code>AnalyedResource</code> object that contains information that Access Analyzer found when it analyzed the resource.</p>"
+          "documentation": "<p>An <code>AnalyzedResource</code> object that contains information that Access Analyzer found when it analyzed the resource.</p>"
         }
       },
       "documentation": "<p>The response to the request.</p>"
